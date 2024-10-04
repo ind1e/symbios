@@ -59,6 +59,15 @@ As the initial developer of the Symbios project, Vlad Tymoshenko, I am working c
 
 ---
 
+### Early Development Team
+
+The following individuals contributed to the early development of the Symbios project:
+
+- **Vlad Tymoshenko** – Initial concept, backend architecture.
+- **Dimetriya Bolia** – Backend developer, early stage contributor.
+
+---
+
 ## Contributing
 
 Symbios is an open-source project, and we welcome contributions from developers, designers, writers, and anyone interested in the future of AI and human collaboration.
