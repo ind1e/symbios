@@ -84,5 +84,3 @@ For any inquiries or questions about the project, feel free to reach out via ema
 ## Acknowledgments
 
 - Special thanks to all early contributors who believe in the vision of Symbios.
-
-- 
